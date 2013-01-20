@@ -1,0 +1,15 @@
+{
+  "name": "center",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dominictarr/center",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dominictarr/center.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://dominictarr.com)",
+  "license": "MIT"  
+}
